@@ -1,16 +1,22 @@
-### Hi there 👋
+### Merhaba 👋🏽
 
-<!--
-**KaanHaciomeroglu/KaanHaciomeroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 Ben Kaan, Turkiye de Gelisim Universitesi 3. Sinif Yonetim Bilisim Sistemleri ogrencisiyim.
 
-Here are some ideas to get you started:
+- Halihazirda online olarak Java ve Python dersleri aliyorum.     
+- Online derslerde aldigim dokumanlari GitHub a yukluyorum.     
+- ✉️ Bana ulasmak icin : kaanhaciomeroglu+vip@gmail.com      
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kullandığım diller ve programlar:
+-
+Java    
+Python  
+SQL     
+Eclipse IDE     
+Anaconda Navigator(spyder)      
+SQL Server Management Studio    
+Microsoft Office        
+Windows Virtual         
+VMware  
+
+
+
