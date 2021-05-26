@@ -17,6 +17,7 @@ SQL Server Management Studio
 Microsoft Office        
 Windows Virtual         
 VMware  
+![image](https://github.com/KaanHaciomeroglu/KaanHaciomeroglu/blob/main/image/image.png)
 
 
 
