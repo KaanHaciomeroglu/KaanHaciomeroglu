@@ -18,6 +18,7 @@ Knime
 R Studio    
 Anaconda Navigator(spyder)      
 SQL Server Management Studio    
+Virtual Studio Code     
 Microsoft Office        
 Windows Virtual         
 VMware  
