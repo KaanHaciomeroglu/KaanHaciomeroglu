@@ -10,8 +10,12 @@ Kullandığım diller ve programlar:
 -
 Java    
 Python  
-SQL     
+SQL  
+R   
 Eclipse IDE     
+NetBeans    
+Knime   
+R Studio
 Anaconda Navigator(spyder)      
 SQL Server Management Studio    
 Microsoft Office        
