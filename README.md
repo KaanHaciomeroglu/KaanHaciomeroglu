@@ -15,7 +15,7 @@ R
 Eclipse IDE     
 NetBeans    
 Knime   
-R Studio
+R Studio    
 Anaconda Navigator(spyder)      
 SQL Server Management Studio    
 Microsoft Office        
