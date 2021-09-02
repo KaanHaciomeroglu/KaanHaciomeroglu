@@ -1,10 +1,8 @@
 ### Merhaba 👋🏽
 
-👨🏽‍💻 Ben Kaan, Turkiye de Gelisim Universitesi 3. Sinif Yonetim Bilisim Sistemleri ogrencisiyim.
+👨🏽‍💻 Ben Kaan
 
-- Halihazirda online olarak Java ve Python dersleri aliyorum.     
-- Online derslerde aldigim dokumanlari GitHub a yukluyorum.     
-- ✉️ Bana ulasmak icin : kaanhaciomeroglu+vip@gmail.com      
+- ✉️ Bana ulasmak icin : kaanhaciomeroglu@gmail.com      
 
 Kullandığım diller ve programlar:
 -
