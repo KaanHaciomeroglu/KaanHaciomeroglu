@@ -1,26 +1,5 @@
-### Merhaba 👋🏽
+Merhaba! 👋
 
-👨🏽‍💻 Ben Kaan
+Veri analizi, proje yönetimi ve yazılım dünyasının kesişim noktasında çalışmaktan keyif alan biriyim. Karmaşık problemleri anlamlı çözümlere dönüştürmek, veriyi hikâyeye çevirmek ve teknolojiyi iş süreçlerine entegre etmek benim için gerçek bir tutku.
 
-- ✉️ Bana ulasmak icin : kaanhaciomeroglu@gmail.com      
-
-Kullandığım diller ve programlar:
--
-Java    
-Python  
-SQL  
-R   
-Eclipse IDE     
-NetBeans    
-Knime   
-R Studio    
-Anaconda Navigator(spyder)      
-SQL Server Management Studio    
-Virtual Studio Code     
-Microsoft Office        
-Windows Virtual         
-VMware  
-
-
-
-
+Veri analitiği ve proje analizinin yanı sıra low-code araçlar ve vibe coding ile hızlı, pratik çözümler üretiyorum. "Mükemmel kod" yerine "çalışan çözüm" felsefesiyle hareket ediyorum — ve bu yaklaşımın iş dünyasında ne kadar değerli olduğunu her geçen gün daha iyi görüyorum. 🚀
