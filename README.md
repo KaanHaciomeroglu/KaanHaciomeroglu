@@ -1,4 +1,8 @@
-# Merhaba! 👋
+# [<img width="389" height="79" alt="image" src="https://github.com/user-attachments/assets/b178fb90-b6dd-443c-b8f6-9b77282d2f0b" />]([https://example.com](https://wolee.cloud/))
+
+---
+
+# Merhaba! 👋 
 
 Veri analizi, proje yönetimi ve yazılım dünyasının **kesişim noktasında** çalışmaktan keyif alan biriyim.
 
