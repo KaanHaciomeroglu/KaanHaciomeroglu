@@ -3,8 +3,6 @@
         <img width="389" height="79" alt="image"
   src="https://github.com/user-attachments/assets/b214e03f-56dc-4700-9fbc-d7f1b0fa8e09" />
       </a>
-
-  <br/>
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaanhaciomeroglu)
