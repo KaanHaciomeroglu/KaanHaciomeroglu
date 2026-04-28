@@ -1,25 +1,33 @@
-  ---
   <div align="center">
       <a href="https://wolee.cloud/" target="_blank">
         <img width="389" height="79" alt="image"
   src="https://github.com/user-attachments/assets/b214e03f-56dc-4700-9fbc-d7f1b0fa8e09" />
       </a>
+
+  <br/>
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaanhaciomeroglu)
+  [![Website](https://img.shields.io/badge/wolee.cloud-000000?style=for-the-badge&logo=safari&logoColor=white)](https://wolee.cloud)
+
   </div>
 
   ---
 
-  # Merhaba!
+  # Merhaba! 👾
 
-  Veri analizi, proje yönetimi ve yazılım dünyasının **kesişim noktasında** çalışmaktan keyif alan biriyim.
+  Veri analizi, proje yönetimi ve yazılım geliştirmenin kesişiminde çalışan biriyim. Gündüzleri kurumsal süreçleri
+  teknolojiyle optimize ediyor; geceleri fikir aklıma düştüğünde vibe coding moduna geçip çalışan bir şey ortaya
+  çıkana kadar devam ediyorum.
 
-  Karmaşık problemleri anlamlı çözümlere dönüştürmek, veriyi hikâyeye çevirmek ve teknolojiyi iş süreçlerine entegre
-   etmek benim için gerçek bir tutku.
+  Karmaşık problemleri sade çözümlere dönüştürmek, veriyi anlamlı hikâyelere çevirmek ve teknolojiyi iş süreçlerine
+  entegre etmek benim için bir tutku.
 
   ---
 
-  ## 🛠️ Teknolojiler
+  ## 👨‍💻 Teknolojiler
 
-   <div align="center">
+  <div align="center">
 
   ### Languages
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,34 +50,30 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   ### Database
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  ### Low-Code & Other
+  ### Low-Code & AI Tools
   ![Kuika](https://img.shields.io/badge/Kuika-FF6B35?style=for-the-badge&logoColor=white)
   ![Flovo](https://img.shields.io/badge/Flovo-6C3FC5?style=for-the-badge&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
   ![Antigravity](https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logoColor=white)
-  ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white)
+  ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=for-the-badge&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
   </div>
 
-
   ---
 
-  ## 📊 GitHub İstatistiklerim
+  ## 📈 GitHub İstatistiklerim
 
   <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaanHaciomeroglu&show_icons=true&them
-  e=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanHaciomeroglu&layout=co
-  mpact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaanHaciomeroglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanHaciomeroglu&layout=compact&langs_count=6&theme=tokyonight"/>
 
   </div>
 
@@ -78,15 +82,6 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=KaanHaciomeroglu&theme=tokyonight&locale=tr)](https://git.io/streak-stats)
 
   </div>
-
-  ---
-
-  ## 🧠 Nasıl Çalışırım?
-
-  **Gündüzleri** işin ciddiyetiyle, **geceleri** ise tamamen keyfi şekilde yeni şeyler kurcalıyorum.
-
-  Vibe coding kafasında takılıp projeler üretiyorum. Fikirden ürüne giden süreçte **tasarlamayı**, **denemeyi** ve
-  ortaya çalışan bir şey çıkarmayı seviyorum.
 
   ---
 
