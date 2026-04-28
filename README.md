@@ -1,5 +1,4 @@
-# [<img width="389" height="79" alt="image" src="https://github.com/user-attachments/assets/b178fb90-b6dd-443c-b8f6-9b77282d2f0b" />]((https://wolee.cloud/))
-
+# [<img width="389" height="79" alt="image" src="https://github.com/user-attachments/assets/b214e03f-56dc-4700-9fbc-d7f1b0fa8e09" />](https://wolee.cloud/)
 ---
 
 # Merhaba! 👋 
