@@ -53,8 +53,6 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
   ### Low-Code & AI Tools
-  ![Kuika](https://img.shields.io/badge/Kuika-FF6B35?style=for-the-badge&logoColor=white)
-  ![Flovo](https://img.shields.io/badge/Flovo-6C3FC5?style=for-the-badge&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
   ![Antigravity](https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logoColor=white)
